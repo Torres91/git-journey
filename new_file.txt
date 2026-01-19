@@ -1,1 +1,2 @@
 This is a new file to experiment on how git and GitHub works and using branches to merge the development branch to the main branch
+Lets add more information 
